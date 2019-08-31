@@ -8,5 +8,5 @@ export const SidebarWrapper = styled.aside`
   text-align: center;
   height: 100vh;
   width: 20rem;
-  background: #283149;
+  background: #15202b;
 `

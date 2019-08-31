@@ -1,10 +1,10 @@
-import { GithubSquare } from "styled-icons/fa-brands/GithubSquare"
+import { GithubSquare as Github } from "styled-icons/fa-brands/GithubSquare"
 import { Linkedin } from "styled-icons/fa-brands/Linkedin"
-import { TwitterSquare } from "styled-icons/fa-brands/TwitterSquare"
+import { TwitterSquare as Twitter } from "styled-icons/fa-brands/TwitterSquare"
 
 const Icons = {
-  GithubSquare,
-  TwitterSquare,
+  Github,
+  Twitter,
   Linkedin,
 }
 

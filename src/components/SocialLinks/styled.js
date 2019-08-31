@@ -12,7 +12,7 @@ export const SocialLinksList = styled.ul`
 `
 export const SocialLinksItem = styled.li``
 export const SocialLinksLink = styled.a`
-  color: #dbedf3;
+  color: #fff;
   text-decoration: none;
   transition: color 0.5s;
 

@@ -1,6 +1,6 @@
 const links = [
-  { label: "GithubSquare", url: "https://github.com/eneasmarques" },
-  { label: "TwitterSquare", url: "https://twitter.com/MarquesEneas" },
+  { label: "Github", url: "https://github.com/eneasmarques" },
+  { label: "Twitter", url: "https://twitter.com/MarquesEneas" },
   { label: "Linkedin", url: "https://linkedin.com/in/eneasmarques" },
 ]
 
