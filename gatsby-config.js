@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Enéas Marques | Dev`,
     description: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.`,
-    author: `@eneasmarques.dev`,
+    position: `Desenvolvedor Web Full-Stack`,
   },
   plugins: [
     `gatsby-plugin-styled-components`,

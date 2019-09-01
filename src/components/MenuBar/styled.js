@@ -24,15 +24,15 @@ export const MenuBarItem = styled.span`
   width: 3.75rem;
   height: 3rem;
   cursor: pointer;
-  transition: color 0.5s;
 
   svg {
     color: #fff;
     margin: auto;
     height: 1.5rem;
-  }
+    transition: color 0.5s;
 
-  &:hover {
-    color: #1b95e0;
+    &:hover {
+      color: #1b95e0;
+    }
   }
 `
