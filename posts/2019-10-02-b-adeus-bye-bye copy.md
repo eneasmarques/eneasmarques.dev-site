@@ -6,10 +6,6 @@ description: Concipit volentem Bacchus collo muneris siquis discordia
 background: silver
 ---
 
-# Abire quae Ixione cruoris nostri viroque secutis
-
-## Concipit volentem Bacchus collo muneris siquis discordia
-
 Lorem markdownum nulla Peleus precando exitus. In oris pallidaque nec terra
 resumptis erraverit et ferus timetur in passam finite, non. Solique per parvo
 potiuntur iustis; cur nulla concurreret ficta: deditque est auras carentem
