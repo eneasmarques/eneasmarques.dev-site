@@ -1,12 +1,12 @@
 ---
 category: JS
-title: Abire quae Ixione cruoris nostri viroque secutis
+title: Post III 02
 date: 2019-10-02 09:08
-description: Concipit volentem Bacchus collo muneris siquis discordia
-background: silver
+description: Dia 02 é a data desse Post
+background: blue
 ---
 
-Lorem markdownum nulla Peleus precando exitus. In oris pallidaque nec terra
+Lorem Alves markdownum nulla Peleus precando exitus. In oris pallidaque nec terra
 resumptis erraverit et ferus timetur in passam finite, non. Solique per parvo
 potiuntur iustis; cur nulla concurreret ficta: deditque est auras carentem
 vertet velocibus oblitis! Vulnere cui potiunda hausi destituit et omnes
@@ -16,7 +16,22 @@ promittit bellum ventis non illi securus bracchia, praecessit petit rore.
 Auster malorum timuitque; ire Olympi silvas si nitido spicis, lacrimas usum quid
 caelo tacuit. Orbi hostis; est moverat. Veniat Mnemonides super, canum, ut ait
 erat quidquid animam frondescere dextera inposuit non hinc magna?
-
+```jsx
+<S.PostItemLink to={slug}>
+    <S.PostItemWrapper>
+      <S.PostItemTag background={background}>
+        <span>{category}</span>
+      </S.PostItemTag>
+      <S.PostItemInfo>
+        <S.PostItemDate>
+          {date} • {timeToRead} min de leitura
+        </S.PostItemDate>
+        <S.PostItemTitle>{title}</S.PostItemTitle>
+        <S.PostItemDescription>{description}</S.PostItemDescription>
+      </S.PostItemInfo>
+    </S.PostItemWrapper>
+  </S.PostItemLink>
+```
 - Deos que
 - Est ipsaque crurum lambendo
 - Repetit inplicuit an niveis roratis legeret

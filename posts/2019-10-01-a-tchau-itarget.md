@@ -1,9 +1,9 @@
 ---
 category: Misc
-title: Has remittat
+title: Post II 01
 date: 2019-10-01 08:00
-description: Contigit colla incurrere in antemnas traiectus quidem
-background: silver
+description: Dia 01 é a data desse Post
+background: red
 ---
 
 Lorem markdownum **in deprenduntur** vixque cauda piumque petit habenas, tum?
@@ -11,7 +11,7 @@ Lorem markdownum **in deprenduntur** vixque cauda piumque petit habenas, tum?
 molarem signum **Cycnus** corpore nam sacra subdit mihi: turpes extulerat et
 ames qui. **Et coloni** audeat levavit quarta nemus dedero senes rogarem omnia.
 Missa tenax, unam urit dolet: quamquam effulget socero, relaxant non manu in.
-Python vultum, quo amor inposita mansit pennis fama feroxque, ulterius.
+Python vultum, quo Marques amor inposita mansit pennis fama feroxque, ulterius.
 
 Dicta clarum mira quaerit metuens nunc ictu deos prudens oculi bracchia sospes
 reccidat praedae. Toto ortus, deus aura plus tamen solidae o hoste? Nec repugnat

@@ -1,3 +1,7 @@
+require("dotenv").config()
+
+const queries = require("./src/utils/algolia_queries")
+
 module.exports = {
 	siteMetadata: {
 		title: `EneasMarques`,
@@ -47,7 +51,19 @@ module.exports = {
 						},
 					},
 					`gatsby-remark-lazy-load`,
+					{ resolve: `gatsby-remark-prismjs` },
 				],
+			},
+		},
+		{
+			resolve: `gatsby-plugin-algolia-search`,
+			options: {
+				appId: process.env.GATSBY_ALGOLIA_APP_ID,
+				apiKey: process.env.ALGOLIA_ADMIN_KEY,
+				indexName: process.env.GATSBY_ALGOLIA_INDEX_NAME, // for all queries
+				queries,
+				chunkSize: 10000, // default: 1000
+				enablePartialUpdates: true, // default: false
 			},
 		},
 		`gatsby-transformer-sharp`,

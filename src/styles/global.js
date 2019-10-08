@@ -1,6 +1,4 @@
 import { createGlobalStyle } from "styled-components"
-// colors #22223B,#4A4E69,#9A8C98,#C9ADA7,#F2E9E4
-// colors #2D3142,#4F5D75,#BFC0C0,#FFFFFF,#EF8354
 const GlobalStyles = createGlobalStyle`
   /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
